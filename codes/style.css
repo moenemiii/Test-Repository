@@ -6,5 +6,7 @@
     padding: 12px;
     border-radius: 30px;
     margin: 30px;
-    border-color: aquamarine;  
+    border-color: aquamarine;
+    border: 12px;
+    color: blue;  
 }
