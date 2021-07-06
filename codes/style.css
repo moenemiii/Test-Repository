@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    font-family: sans-serif;
+}
+.header{
+    padding: 12px;
+    border-radius: 30px;
+    margin: 30px;
+    border-color: aquamarine;  
+}
